@@ -1,0 +1,6 @@
+{"rose":"red",
+ "sky":"blue",
+ "sea":"blue",
+ "wheat":"gold",
+ "mandarin":"orange",
+ "dragonfruit":"red"}

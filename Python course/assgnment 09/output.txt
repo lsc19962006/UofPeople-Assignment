@@ -1,0 +1,1 @@
+{'red': ['rose', 'dragonfruit'], 'blue': ['sky', 'sea'], 'gold': ['wheat'], 'orange': ['mandarin']}
